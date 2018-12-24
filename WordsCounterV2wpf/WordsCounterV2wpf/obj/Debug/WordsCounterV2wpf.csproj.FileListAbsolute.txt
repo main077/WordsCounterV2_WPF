@@ -1,0 +1,15 @@
+C:\Users\Кира\source\repos\WordsCounterV2wpf\WordsCounterV2wpf\bin\Debug\WordsCounterV2wpf.exe.config
+C:\Users\Кира\source\repos\WordsCounterV2wpf\WordsCounterV2wpf\bin\Debug\WordsCounterV2wpf.exe
+C:\Users\Кира\source\repos\WordsCounterV2wpf\WordsCounterV2wpf\bin\Debug\WordsCounterV2wpf.pdb
+C:\Users\Кира\source\repos\WordsCounterV2wpf\WordsCounterV2wpf\obj\Debug\WordsCounterV2wpf.csprojAssemblyReference.cache
+C:\Users\Кира\source\repos\WordsCounterV2wpf\WordsCounterV2wpf\obj\Debug\MainWindow.g.cs
+C:\Users\Кира\source\repos\WordsCounterV2wpf\WordsCounterV2wpf\obj\Debug\App.g.cs
+C:\Users\Кира\source\repos\WordsCounterV2wpf\WordsCounterV2wpf\obj\Debug\WordsCounterV2wpf_MarkupCompile.cache
+C:\Users\Кира\source\repos\WordsCounterV2wpf\WordsCounterV2wpf\obj\Debug\WordsCounterV2wpf_MarkupCompile.lref
+C:\Users\Кира\source\repos\WordsCounterV2wpf\WordsCounterV2wpf\obj\Debug\MainWindow.baml
+C:\Users\Кира\source\repos\WordsCounterV2wpf\WordsCounterV2wpf\obj\Debug\WordsCounterV2wpf.g.resources
+C:\Users\Кира\source\repos\WordsCounterV2wpf\WordsCounterV2wpf\obj\Debug\WordsCounterV2wpf.Properties.Resources.resources
+C:\Users\Кира\source\repos\WordsCounterV2wpf\WordsCounterV2wpf\obj\Debug\WordsCounterV2wpf.csproj.GenerateResource.cache
+C:\Users\Кира\source\repos\WordsCounterV2wpf\WordsCounterV2wpf\obj\Debug\WordsCounterV2wpf.csproj.CoreCompileInputs.cache
+C:\Users\Кира\source\repos\WordsCounterV2wpf\WordsCounterV2wpf\obj\Debug\WordsCounterV2wpf.exe
+C:\Users\Кира\source\repos\WordsCounterV2wpf\WordsCounterV2wpf\obj\Debug\WordsCounterV2wpf.pdb
